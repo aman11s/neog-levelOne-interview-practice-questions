@@ -7,3 +7,5 @@
 `Question 2` - Create a counter with two buttons `+` and `-`. On clicking these buttons the number should increment and decrement respectively from the given value. Show error when you give any input other than number.
 
 [VanillaJS](https://replit.com/@aman11s/q2#script.js)
+
+[ReactJS](https://codesandbox.io/s/q2-mofxb?file=/src/App.js)
