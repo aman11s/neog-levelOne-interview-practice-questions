@@ -16,3 +16,11 @@ Add on make '-' button disable while counter value is 0, only enable when the co
 [VanillaJS](https://replit.com/@MahendraChauhan/counter-app#index.html)
 
 [ReactJS](https://codesandbox.io/s/mq03-t6hjx)
+
+`Question 4` - Create a web app, which On the Click of a button fetches data from the provided API and from the data, displays the item with the highest price on the screen, below the button.
+
+`API` - https://mock-practice.prakhar10v.repl.co/items
+
+[VanillaJS](https://replit.com/@aman11s/Extended-Question#index.html)
+
+[ReactJS](https://codesandbox.io/s/prakhar-extended-question-0w5sm?file=/src/App.js)
