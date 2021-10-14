@@ -24,3 +24,9 @@ Add on make '-' button disable while counter value is 0, only enable when the co
 [VanillaJS](https://replit.com/@aman11s/Extended-Question#index.html)
 
 [ReactJS](https://codesandbox.io/s/prakhar-extended-question-0w5sm?file=/src/App.js)
+
+`Question 5` - Create a web app to take text input from the user and show the number of vowels and consonants.
+
+[VanillaJS](https://replit.com/@aman11s/q5#index.html)
+
+[ReactJS](https://codesandbox.io/s/q5-cz4s2?file=/src/App.js)
