@@ -30,3 +30,7 @@ Add on make '-' button disable while counter value is 0, only enable when the co
 [VanillaJS](https://replit.com/@aman11s/q5#index.html)
 
 [ReactJS](https://codesandbox.io/s/q5-cz4s2?file=/src/App.js)
+
+`Question 6` - Create a web app, which on the click of a button fetches and show profile photo of your github profile and all your repositories in ordered list.
+
+`API` - https://api.github.com/users/your_username
