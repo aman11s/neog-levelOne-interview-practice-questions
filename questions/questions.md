@@ -34,3 +34,7 @@ Add on make '-' button disable while counter value is 0, only enable when the co
 `Question 6` - Create a web app, which on the click of a button fetches and show profile photo of your github profile and all your repositories in ordered list.
 
 `API` - https://api.github.com/users/your_username
+
+`Question 7` - Create a web app, which you have to create two btns one is start, second is stop, and input text on clicking of start btn the text color should change in every 1 sec and on clicking stop it should stop at a particular color.
+
+[VanillaJS](https://replit.com/@MahendraChauhan/diwali-lights#index.html)
