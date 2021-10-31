@@ -29,6 +29,8 @@ Add on make '-' button disable while counter value is 0, only enable when the co
 
 [VanillaJS](https://replit.com/@aman11s/q5#index.html)
 
+
+
 [ReactJS](https://codesandbox.io/s/q5-cz4s2?file=/src/App.js)
 
 `Question 6` - Create a web app, which on the click of a button fetches and show profile photo of your github profile and all your repositories in ordered list.
@@ -38,3 +40,9 @@ Add on make '-' button disable while counter value is 0, only enable when the co
 `Question 7` - Create a web app, which you have to create two btns one is start, second is stop, and input text on clicking of start btn the text color should change in every 1 sec and on clicking stop it should stop at a particular color.
 
 [VanillaJS](https://replit.com/@MahendraChauhan/diwali-lights#index.html)
+
+`Question 8` - Create a web app,which has one input and one button, when anyone click the button then it returns the reverse of the input.
+
+[VanillaJS](https://replit.com/@omkarpatke/NeogCampInterviewquestions)
+[ReactJS](https://codesandbox.io/s/questions-f8dil)
+
