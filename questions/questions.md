@@ -35,6 +35,8 @@ Add on make '-' button disable while counter value is 0, only enable when the co
 
 `API` - https://api.github.com/users/your_username
 
+[VanillaJS](https://replit.com/@jsuryakt/MixedProfitableParameters)
+
 `Question 7` - Create a web app, which you have to create two btns one is start, second is stop, and input text on clicking of start btn the text color should change in every 1 sec and on clicking stop it should stop at a particular color.
 
 [VanillaJS](https://replit.com/@MahendraChauhan/diwali-lights#index.html)
